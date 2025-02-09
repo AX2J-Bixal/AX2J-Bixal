@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm Steven Angulo</h1>
-<h3 align="center">I'm a dedicated developer, always learning, refining SQL and data workflows, optimizing DevOps processes, and building efficient solutions—fueled by innovation and the occasional bandeja paisa.</h3>
+<h3 align="center">I'm a dedicated developer, always learning, optimizing DevOps processes, and building efficient solutions—fueled by innovation and the occasional bandeja paisa.</h3>
 
 ## 👨🏽‍💻 &nbsp;About Me
 
