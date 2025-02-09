@@ -9,7 +9,7 @@
 
 🌱  I’m currently focused on system architecture, data pipelines, infrastructure as code, and security best practices.
 
-✍️  My goal is to build clean, efficient, and secure solutions—leveraging deep knowledge of algorithms, SQL, and cloud systems to drive innovation while making technology more accessible and impactful.
+✍️ My goal is to design and deploy clean, efficient, and secure infrastructure solutions—leveraging expertise in Python, Infrastructure as Code (IaC), and cloud platforms to drive automation, enhance scalability, and ensure robust, secure systems that deliver impactful and accessible technology.
 
 ## 🛠 &nbsp;Tech Stack
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
