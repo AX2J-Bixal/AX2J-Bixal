@@ -5,8 +5,6 @@
 
 💡  I’m always exploring new technologies, particularly in the data, security, and DevOps space—optimizing workflows, automating processes, and improving system resilience. Shoutout to Databricks and Terraform!
 
-🎓  I earned my Master’s in Cybersecurity from NYU Tandon in 2024 after completing their Bridge Program, transitioning from eight years in social services to a tech-driven career.
-
 🌱  I’m currently focused on system architecture, data pipelines, infrastructure as code, and security best practices.
 
 ✍️ My goal is to design and deploy clean, efficient, and secure infrastructure solutions—leveraging expertise in Python, Infrastructure as Code (IaC), and cloud platforms to drive automation, enhance scalability, and ensure robust, secure systems that deliver impactful and accessible technology.
